@@ -3,7 +3,7 @@
 * Analyzed the usage of programming languages among developers in different job roles based on survey data. 
 * Libraries and frameworks:csv,collections(defaultdict and Counter),Pandas,Numpy,Matplotlib.
 
-* Built a client facing API using flask
+
 * ## Quantitative Results
 * ## Hobbyist Survey Result:
 
